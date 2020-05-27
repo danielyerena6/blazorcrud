@@ -1,0 +1,19 @@
+C:\Users\nuevo\source\repos\Practica 2 Yerena\bin\Debug\Practica 2 Yerena.exe.config
+C:\Users\nuevo\source\repos\Practica 2 Yerena\bin\Debug\Practica 2 Yerena.exe
+C:\Users\nuevo\source\repos\Practica 2 Yerena\bin\Debug\Practica 2 Yerena.pdb
+C:\Users\nuevo\source\repos\Practica 2 Yerena\obj\Debug\Practica 2 Yerena.csprojAssemblyReference.cache
+C:\Users\nuevo\source\repos\Practica 2 Yerena\obj\Debug\Practica_2_Yerena.Form1.resources
+C:\Users\nuevo\source\repos\Practica 2 Yerena\obj\Debug\Practica_2_Yerena.Properties.Resources.resources
+C:\Users\nuevo\source\repos\Practica 2 Yerena\obj\Debug\Practica 2 Yerena.csproj.GenerateResource.cache
+C:\Users\nuevo\source\repos\Practica 2 Yerena\obj\Debug\Practica 2 Yerena.exe
+C:\Users\nuevo\source\repos\Practica 2 Yerena\obj\Debug\Practica 2 Yerena.pdb
+C:\Users\Dan\source\repos\Firma Yerena\bin\Debug\Practica 2 Yerena.exe.config
+C:\Users\Dan\source\repos\Firma Yerena\bin\Debug\Practica 2 Yerena.exe
+C:\Users\Dan\source\repos\Firma Yerena\bin\Debug\Practica 2 Yerena.pdb
+C:\Users\Dan\source\repos\Firma Yerena\obj\Debug\Practica 2 Yerena.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\Firma Yerena\obj\Debug\Practica_2_Yerena.Form1.resources
+C:\Users\Dan\source\repos\Firma Yerena\obj\Debug\Practica_2_Yerena.Properties.Resources.resources
+C:\Users\Dan\source\repos\Firma Yerena\obj\Debug\Practica 2 Yerena.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\Firma Yerena\obj\Debug\Practica 2 Yerena.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Firma Yerena\obj\Debug\Practica 2 Yerena.exe
+C:\Users\Dan\source\repos\Firma Yerena\obj\Debug\Practica 2 Yerena.pdb

@@ -1,0 +1,48 @@
+﻿@page "/cervezas"
+@using System.Net.Http;
+@using System.Net.Http.Json;
+@inject HttpClient Http;
+@using BlazorCrud.Data;
+
+<h3>Cervezas</h3>
+<div class="row">
+    <div class="col-12 text-right">
+        <a href="cervezaform">Nuevo</a>
+    </div>
+</div>
+<table class="table">
+    @if (oRespuesta != null && oRespuesta.Data != null)
+    {
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Marca</th>
+        <th></th>
+
+
+        @foreach (var oElement in oRespuesta.Data)
+        {
+            <tr>
+            </tr>
+            <tr>
+                <td>@oElement.Id</td>
+                <td>@oElement.Nombre</td>
+                <td>@oElement.Marca</td>
+                <td>
+                    <a href="/cervezaform/@oElement.Id">Editar</a>
+                    <a href="/eliminar/@oElement.Id">Eliminar</a>
+                </td>
+            </tr>
+
+        }
+    }
+</table>
+
+
+@code {
+    public string Url = "/api/Cerveza";
+    public Data.Respuesta<List<Cerveza>> oRespuesta =new Data.Respuesta<List<Cerveza>>();
+
+    protected override async Task OnInitializedAsync() =>
+        oRespuesta = await Http.GetFromJsonAsync<Respuesta<List<Cerveza>>>(Url);
+
+}

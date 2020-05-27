@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bG0s9FaY85+PmRl3qfo3j1bi4lltoElm0h/lQbM6gJlvDmGrA/bUEcMSr4VugjmvNqQmnPjv/ReW3XpZK0mT6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dan\\source\\repos\\BlazorCrud\\BlazorCrud\\BlazorCrud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

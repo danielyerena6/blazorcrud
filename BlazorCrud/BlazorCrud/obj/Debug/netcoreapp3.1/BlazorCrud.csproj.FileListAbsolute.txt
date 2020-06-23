@@ -57,3 +57,5 @@ C:\Users\Dan\source\repos\BlazorCrud\BlazorCrud\obj\Debug\netcoreapp3.1\RazorDec
 C:\Users\Dan\source\repos\BlazorCrud\BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\CervezaForm.razor.g.cs
 C:\Users\Dan\source\repos\BlazorCrud\BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Eliminar.razor.g.cs
 C:\Users\Dan\source\repos\BlazorCrud\BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\Eliminar.razor.g.cs
+C:\Users\Dan\source\repos\BlazorCrud\BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Covid_19.razor.g.cs
+C:\Users\Dan\source\repos\BlazorCrud\BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\Covid_19.razor.g.cs

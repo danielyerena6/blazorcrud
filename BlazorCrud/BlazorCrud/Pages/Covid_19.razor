@@ -1,0 +1,23 @@
+﻿@page "/Covid-19"
+@using System.Net.Http;
+@using System;
+@using System.Net.Http.Json;
+@inject HttpClient Http;
+<h3>Covid-19</h3>
+
+<p>Current count: @m</p>
+
+
+@code {
+
+    private Http[] forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync();
+    }
+
+
+    }
+
+

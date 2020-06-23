@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l2xGJ9q9Z/TOUO0cQ4DpXUp14g5C6/oJSZMt3SEIIyqsF/boWIyv+xJvY0LAOlkS5ihbgStUS4IsZlC3B4Hzog==",
+  "dgSpecHash": "8tzkOa2kP54or7PmK1wLrUvFkrW6+BrY0Of4DYio4R+4EL+iV98xlGpcKG4wH3NaY10DEPVM2ZwnhsGNTLtLeg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dan\\source\\repos\\WebServiceBlazorCrud\\WebServiceBlazorCrud\\WebServiceBlazorCrud.csproj",
   "expectedPackageFiles": [
@@ -91,8 +91,7 @@
     "C:\\Users\\Dan\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Dan\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Dan\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Dan\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Dan\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

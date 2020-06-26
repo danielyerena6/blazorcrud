@@ -1,0 +1,41 @@
+﻿@page "/estadistica"
+@using System;
+@using System.IO;
+<h1>Estadistica</h1>
+<br />
+<br />
+<br />
+
+ @(n=lines.Length)
+@for (int i = 0; i < n; i++)
+{
+    var aux = lines[i];
+    <p>@aux</p>
+}
+
+<table class="table">
+    
+    @foreach (var line in lines)
+    {
+    
+        var valores = line.Split(",");
+    <tr>
+        @foreach (var valor in valores)
+        {
+        <td>@valor</td>
+
+        }
+    </tr>
+    }
+</table>
+
+
+@code {
+    string val;
+    string[] lines = File.ReadAllLines("worldometer_data.csv");
+    int n;
+   
+
+
+
+}

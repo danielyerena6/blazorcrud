@@ -3,21 +3,84 @@
 @using System;
 @using System.Net.Http.Json;
 @inject HttpClient Http;
-<h3>Covid-19</h3>
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Covid 19</title>
+        <style>
+            img {
+                width: 100%;
+                height: 350px;
+            }
+        </style>
+        
+        
 
-<p>Current count: @m</p>
+    </head>
+    <body>
+
+        <h2>¿Qué es un coronavirus?</h2>
+        <p>
+            Los coronavirus son una extensa familia de <a href="https://www.genome.gov/es/genetics-glossary/Virus" target="_blank">virus</a> que pueden causar enfermedades tanto en animales como en humanos. En los humanos, se sabe que varios coronavirus causan infecciones respiratorias que pueden ir desde el resfriado común hasta enfermedades más graves como el síndrome respiratorio de Oriente Medio <a href="https://medlineplus.gov/spanish/ency/patientinstructions/000723.htm" target="_blank">(MERS)</a> y el síndrome respiratorio agudo severo <a href="https://www.cdc.gov/sars/index-sp.html" target="_blank">(SRAS)</a>.
+
+        </p>
+        <img src="https://coronavirus.gob.mx/wp-content/uploads/2020/04/TEXTURA-COVID.jpg" alt="Italian Trulli">
+        <br />
+        <br />
+
+
+
+
+        <h2>¿Qué es la COVID‑19?</h2>
+        <p>
+            El COVID-19 es una enfermedad infecciosa, que puede causar infecciones respiratorias desde el resfriado común hasta enfermedades más graves. Es causado por el coronavirus.
+        </p>
+        <img src="https://www.fdiworlddental.org/sites/default/files/media/covid-19-main-image.jpg" alt="Covid-19">
+        <br />
+        <br />
+
+        <h2>¿Cuáles son los síntomas de la COVID-19?</h2>
+        <p>
+            Los síntomas más habituales de la COVID-19 son la fiebre, la tos seca y el cansancio. Otros síntomas menos frecuentes que afectan a algunos pacientes son los dolores y molestias, la congestión nasal, el dolor de cabeza, la conjuntivitis, el dolor de garganta, la diarrea, la pérdida del gusto o el olfato y las erupciones cutáneas o cambios de color en los dedos de las manos o los pies. Estos síntomas suelen ser leves y comienzan gradualmente. Algunas de las personas infectadas solo presentan síntomas levísimos.
+
+            <br /><br />La mayoría de las personas (alrededor del 80%) se recuperan de la enfermedad sin necesidad de tratamiento hospitalario. Alrededor de 1 de cada 5 personas que contraen la COVID‑19 acaba presentando un cuadro grave y experimenta dificultades para respirar. Las personas mayores y las que padecen afecciones médicas previas como hipertensión arterial, problemas cardiacos o pulmonares, diabetes o cáncer tienen más probabilidades de presentar cuadros graves. Sin embargo, cualquier persona puede contraer la COVID‑19 y caer gravemente enferma.
+            Las personas de cualquier edad que tengan fiebre o tos y además respiren con dificultad, sientan dolor u opresión en el pecho o tengan dificultades para hablar o moverse deben solicitar atención médica inmediatamente. Si es posible, se recomienda llamar primero al profesional sanitario o centro médico para que estos remitan al paciente al establecimiento sanitario adecuado.
+        </p>
+        <br />
+        <br />
+        <p>
+            <img src="https://www.gstatic.com/healthricherkp/covidsymptoms/light_fever.gif" align="left" style="width:128px;height:128px;" alt="Fiebre"> <div align="center"><img src="https://www.gstatic.com/healthricherkp/covidsymptoms/light_cough.gif" style="width:128px;height:128px;" alt="Tos seca">  <img src="https://www.gstatic.com/healthricherkp/covidsymptoms/light_tiredness.gif" alt="Cansancio" align="right" style="width:128px;height:128px;"></div>
+        </p>
+
+        <br />
+        <br />
+
+        <h2>¿Cómo nos afecta?</h2>
+        <iframe width="1130" height="600" src="https://www.youtube.com/embed/2f3bWviThuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+
+        
+
+
+
+
+    </body>
+
+
+</html>
 
 
 @code {
 
-    private Http[] forecasts;
-
-    protected override async Task OnInitializedAsync()
-    {
-        forecasts = await Http.GetFromJsonAsync();
-    }
 
 
-    }
+
+}
 
 

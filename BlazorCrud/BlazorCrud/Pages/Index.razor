@@ -1,10 +1,26 @@
 ﻿@page "/"
 @using System.Diagnostics;
 
-<h1>Examen 2° Parcial</h1>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="/images/icon.ico" />
+    <title>Computacion</title>
+</head>
+<body>
 
-Alumno: Carlos Daniel Yerena Mercado<br />
-Grupo: 8CM11
+    <h1>Examen 3° parcial</h1>
+    <br />Alumno: Carlos Daniel Yerena Mercado
+    <br />Grupo: 8CM11
+
+</body>
+</html>
+@obj1.firmar()
+
+@code{
+    public Data.Firma obj1 = new Data.Firma();
+}
+
 
 
 

@@ -1,0 +1,10 @@
+C:\Users\Dan\source\repos\graficar\graficar\bin\Debug\graficar.exe.config
+C:\Users\Dan\source\repos\graficar\graficar\bin\Debug\graficar.exe
+C:\Users\Dan\source\repos\graficar\graficar\bin\Debug\graficar.pdb
+C:\Users\Dan\source\repos\graficar\graficar\obj\Debug\graficar.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\graficar\graficar\obj\Debug\graficar.Form1.resources
+C:\Users\Dan\source\repos\graficar\graficar\obj\Debug\graficar.Properties.Resources.resources
+C:\Users\Dan\source\repos\graficar\graficar\obj\Debug\graficar.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\graficar\graficar\obj\Debug\graficar.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\graficar\graficar\obj\Debug\graficar.exe
+C:\Users\Dan\source\repos\graficar\graficar\obj\Debug\graficar.pdb

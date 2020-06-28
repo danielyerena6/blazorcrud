@@ -12,5 +12,11 @@ namespace BlazorCrud.Data
             System.Diagnostics.Process.Start("Practica 2 Yerena.exe");
             return "Firma";
         }
+
+        public object grafica()
+        {
+            System.Diagnostics.Process.Start("graficar.exe");
+            return "Grafica";
+        }
     }
 }
